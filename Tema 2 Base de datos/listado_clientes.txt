@@ -1,0 +1,12 @@
+1;Ana;López Ruiz;1970-03-15;12
+2;Carlos;Martín Pérez;1985-07-21;18
+3;Lucía;Fernández Soto;1975-11-02;15
+4;Javier;Romero Díaz;1968-01-30;8
+5;Elena;García Molina;1972-06-10;20
+6;Pablo;Sánchez Vega;1990-04-18;3
+7;Marta;Navarro León;1977-12-31;11
+8;Diego;Torres Campos;1965-09-07;25
+9;Sara;Jiménez Castro;1980-02-14;14
+10;Raúl;Morales Gil;1973-08-22;16
+11;Irene;Ortega Ramos;1976-05-05;13
+12;Alberto;Herrera Cruz;1979-10-09;22
